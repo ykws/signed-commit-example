@@ -5,3 +5,4 @@ This repository contains a mix of unsigned and signed commits.
 - Set email commit
 - GPG signed commit, but not add to host
 - GPG signed commit, added to host
+- Unset email and GPG signed
