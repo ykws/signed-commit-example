@@ -1,5 +1,9 @@
 # Signed Commit Example
 
+This is the standard commit I adhere to.
+
+<img src="./verified_signature.png" width="480">
+
 This repository contains a mix of unsigned and signed commits.
 - Anonymous commit
 - Set name commit
